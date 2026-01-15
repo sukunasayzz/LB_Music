@@ -24,3 +24,4 @@ yt-dlp
 youtube-search
 youtube-search-python
 telethon
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
